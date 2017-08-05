@@ -5,3 +5,4 @@ Rainbow unicorn
   Red
   Green
   Indigo
+  Purple
