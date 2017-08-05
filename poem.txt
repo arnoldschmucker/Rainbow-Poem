@@ -4,3 +4,4 @@ Rainbow unicorn
   Orange
   Red
   Green
+  Indigo
